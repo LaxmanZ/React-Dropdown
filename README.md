@@ -1,6 +1,3 @@
-# Hosted
-
-https://charanreddy404-react-dropdown.netlify.app/
 
 # Getting Started with Create React App
 
